@@ -4,7 +4,7 @@ const cron = new Bree({
   jobs: [
     {
       name: "bot",
-      interval: "every day at 9:00 am",
+      interval: "at 9:05 am",
     },
   ],
 });
